@@ -1,3 +1,9 @@
+# About
+
+Here I'm going to share all my addons, researches and information about <a href="https://www.ratio-computers.eu/en/12-ix3m-dive-computers">Ratio iX3M</a> dive computer.
+
+You are welcome to add anything you think would be useful to other owhers of this computers.
+
 # Data connector of Ratio iX3M
 
 <img src="connector.jpg">
