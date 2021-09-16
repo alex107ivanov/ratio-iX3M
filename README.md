@@ -19,5 +19,6 @@ I'm going to add some STL files for protective case & data connector.
 It needs no bangee or so on. I'm using it to protect computer case from scratches & to make it little bit more bright - I printed it in red.
 
 <a href="protective_cover.stl">STL file</a> - can be printed without supports with PLA/PLA+, infill 20-30%.
+You can also find it on <a href="https://www.thingiverse.com/thing:4966413">Thingiverse</a>.
 <img src="protective_cover.jpg">
 <img src="protective_cover_cura.jpg">
